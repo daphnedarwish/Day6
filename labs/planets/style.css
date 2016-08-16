@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+}
+
+li {
+  font-size: 20px;
+  background color: rgba(52,152,219,0.75);
+}
+#mars{
+  color: rgb(250,0,0);
+}
+#outer-planets{
+  color: rgb(255,255,255);
+}
